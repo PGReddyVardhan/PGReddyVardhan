@@ -37,7 +37,7 @@
   * Firebase
   * Git & GitHub
 
-* 🧠 Currently exploring:
+* 🧠 Currently Exploring:
 
   * Artificial Intelligence
   * Prompt Engineering
@@ -45,38 +45,33 @@
   * API Development
   * Modern Web Technologies
 
-* 📫 Reach me:
+* 📫 Reach me at:
   **[palakolanug@gmail.com](mailto:palakolanug@gmail.com)**
 
 * ⚡ Fun Fact:
   **I love building innovative solutions that solve real-world problems through technology.**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🌐 Connect with Me</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.youtube.com/@yourchannel" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
-
-<a href="https://t.me/yourtelegram" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/palakolanu-govardhan-reddy/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
 
 <p align="left">
-
 <a href="https://react.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 
 <a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
 </a>
 
 <a href="https://nodejs.org/" target="_blank">
@@ -110,42 +105,45 @@
 <a href="https://github.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
 </a>
-
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+---
+
+<h3 align="left">📊 GitHub Statistics</h3>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PGReddyVardhan&show_icons=true&locale=en&layout=compact" alt="PGReddyVardhan" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=PGReddyVardhan&show_icons=true&locale=en" alt="PGReddyVardhan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGReddyVardhan&layout=compact&theme=tokyonight" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PGReddyVardhan" alt="PGReddyVardhan" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PGReddyVardhan&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PGReddyVardhan&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="left">🏆 GitHub Trophies</h3>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=PGReddyVardhan&theme=algolia&margin-w=15" />
 </p>
 
-<h3 align="left">🚀 Current Focus:</h3>
+---
 
-✔ Building Full Stack Applications
+<h3 align="left">🎯 Current Focus</h3>
 
-✔ Learning Advanced AI Integrations
+* ✔ Building Full Stack Applications
+* ✔ Learning Advanced AI Integrations
+* ✔ Exploring Modern Backend Technologies
+* ✔ Contributing to Open Source Projects
+* ✔ Strengthening Problem Solving Skills
 
-✔ Exploring Modern Backend Technologies
+---
 
-✔ Contributing to Open Source Projects
-
-✔ Strengthening Problem Solving Skills
-
-<h3 align="left">💡 Quote:</h3>
+<h3 align="left">💡 Favorite Quote</h3>
 
 <p align="center">
 <b>"Learn. Build. Improve. Repeat."</b>
